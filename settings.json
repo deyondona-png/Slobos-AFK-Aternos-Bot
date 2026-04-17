@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lockyu.aternos.me",
-    "port": 52984,
+    "ip": "lockyu-xera.aternos.me",
+    "port": 22703,
     "version": "",
     "try-creative": false
   },
